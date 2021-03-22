@@ -1,0 +1,14 @@
+.ShippingPage {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+}
+.headerText {
+  font-size: 16px;
+  font-weight: bold;
+}
+@media (min-width: 600px) {
+  .ShippingPage {
+    width: 700px;
+  }
+}
